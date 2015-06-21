@@ -1,0 +1,19 @@
+{
+  "name": "Website",
+  "version": "1.1.0",
+  "homepage": "https://github.com/jasonkylefrank/Staging",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "~4.2.3",
+    "normalize.css": "~3.0.3",
+    "neat": "~1.7.2",
+    "bitters": "~1.0.0"
+  }
+}

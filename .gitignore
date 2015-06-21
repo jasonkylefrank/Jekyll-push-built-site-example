@@ -1,0 +1,13 @@
+# This is the normal Jekyll output directory
+_site
+# This is an output directory that my gulpfile generates in order to do live-injecting for BrowserSync (this is in addition to the css directory inside _site)
+css
+.DS_Store
+.jekyll
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+bower_components

@@ -1,0 +1,9 @@
+#### PURPOSE: A second config file, to be run when developing locally.
+####          Inspired by: http://stackoverflow.com/a/20587233/718325
+
+
+# Using empty string for when I'm developing locally using gulp which uses
+#  browserSync to serve the site (so I can get auto-refresh).
+#  The real baseurl (which will be used in production) is contained in the
+#  main _config.yml file.
+baseurl: ""
