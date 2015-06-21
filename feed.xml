@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason K. Frank</title>
+    <description>Code, Design, Experience (UX, that is)</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Second Blog Post</title>
+        <description>&lt;p&gt;This is a second blog post.  Not only does it say &amp;#39;hello world&amp;#39;,
+it contains several other words.  Words seem to be useful in blog posts,
+so this post contains several of them.&lt;/p&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Jun 2015 00:00:00 -0400</pubDate>
+        <link>/Second-Post/</link>
+        <guid isPermaLink="true">/Second-Post/</guid>
+      </item>
+    
+      <item>
+        <title>First Blog Post</title>
+        <description>&lt;p&gt;This is a blog post.  It contains words. Words contain letters.
+This is another sentence.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Jun 2015 00:00:00 -0400</pubDate>
+        <link>/First-Post/</link>
+        <guid isPermaLink="true">/First-Post/</guid>
+      </item>
+    
+      <item>
+        <title>You&#39;re up and running!</title>
+        <description>&lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/config.png&quot; alt=&quot;_config.yml&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;
+
+&lt;p&gt;This is some new text that I typed with my own hands!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
+        <link>/Hello-World/</link>
+        <guid isPermaLink="true">/Hello-World/</guid>
+      </item>
+    
+  </channel>
+</rss>
