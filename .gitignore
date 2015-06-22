@@ -9,5 +9,5 @@ css
 Gemfile
 Gemfile.lock
 node_modules
-package.json
+# package.json
 bower_components
